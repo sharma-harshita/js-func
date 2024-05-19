@@ -1,14 +1,32 @@
-function add(){
-    console.log("add function is executed")
+// function add(){
+//     console.log("add function is executed")
+// }
+
+// add()
+
+// function getSalary (){
+//     return 10000;
+// }
+
+// const val = getSalary();
+// console.log(val);
+
+let arr = [1,2,]
+
+function modifyString(str) {
+    console.log(str);
+    str += " World";
+    console.log(str);
 }
 
-add()
+let myString = "Hello";
+modifyString(myString);
+console.log(myString); 
 
-function getSalary (){
-    return 10000;
+function modifyArray(arr) {
+    arr.push(4);
 }
 
-const val = getSalary();
-console.log(val);
-
-
+let myArray = [1, 2, 3];
+modifyArray(myArray);
+console.log(myArray);
