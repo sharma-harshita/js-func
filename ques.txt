@@ -1,0 +1,9 @@
+
+
+
+
+
+1. How to prepare for an interview after learning MERN stack? 
+2. What type of projects should i build? Should i build a complete full fledge application 
+or a small portion of it to show it to the recruiters?
+3. Please guide on some machine interview test how to prepare & what to prepare? 
